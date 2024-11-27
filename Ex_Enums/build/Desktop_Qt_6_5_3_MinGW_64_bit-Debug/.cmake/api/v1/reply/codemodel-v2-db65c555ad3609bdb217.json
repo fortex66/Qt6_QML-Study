@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-eb4bd3bcca56e36230b0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Ex_Enums",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-9edef0845cb25bc50ab6.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-1cb67c5067a80f6c23aa.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-2edb3f0b73204fac0de4.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-1dd91eb8a55a52e27e37.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Enums::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Enums-Debug-dac99742f32c3d347880.json",
+					"name" : "appEx_Enums",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Enums_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Enums_autogen-Debug-78c920b8c2d0e598daad.json",
+					"name" : "appEx_Enums_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Enums_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Enums_autogen_timestamp_deps-Debug-568d9d096ac2a7829c7f.json",
+					"name" : "appEx_Enums_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Enums_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Enums_qmlimportscan-Debug-a0c8dbf80921d15d4913.json",
+					"name" : "appEx_Enums_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Enums_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Enums_qmllint-Debug-3c09c657a5b3187b8a5f.json",
+					"name" : "appEx_Enums_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Enums_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Enums_qmllint_json-Debug-6bf8be5ec3b5b6607e78.json",
+					"name" : "appEx_Enums_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Enums_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Enums_qmllint_module-Debug-b5de05da6119af49afae.json",
+					"name" : "appEx_Enums_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Enums_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Enums_qmltyperegistration-Debug-7e5059a2a55d45c4cea6.json",
+					"name" : "appEx_Enums_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Enums_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Enums_tooling-Debug-f50240636ad2958f48c1.json",
+					"name" : "appEx_Enums_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Qt/QML_Projects/Ex_Enums/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug",
+		"source" : "C:/Qt/QML_Projects/Ex_Enums"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

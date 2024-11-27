@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/qt/qml/Ex_02_QML_Basic_Example/">
+    <file alias="Main.qml">C:/Qt/QML_Projects/Ex_02_QML_Basic_Example/Main.qml</file>
+    <file alias="images/background.png">C:/Qt/QML_Projects/Ex_02_QML_Basic_Example/images/background.png</file>
+    <file alias="images/stick.png">C:/Qt/QML_Projects/Ex_02_QML_Basic_Example/images/stick.png</file>
+    <file alias="images/wheel.png">C:/Qt/QML_Projects/Ex_02_QML_Basic_Example/images/wheel.png</file>
+  </qresource>
+</RCC>
+

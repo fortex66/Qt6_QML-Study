@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qt/qml/Ex_01_ImageRotate/">
+    <file alias="Main.qml">C:/Qt/QML_Projects/Ex_01_ImageRotate/Main.qml</file>
+    <file alias="images/QtLogo.png">C:/Qt/QML_Projects/Ex_01_ImageRotate/images/QtLogo.png</file>
+  </qresource>
+</RCC>
+

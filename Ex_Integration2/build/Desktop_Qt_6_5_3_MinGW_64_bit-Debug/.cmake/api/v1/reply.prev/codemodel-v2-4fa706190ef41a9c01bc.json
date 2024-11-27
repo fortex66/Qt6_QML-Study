@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-4bbfb98f6bfc63bac53a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Ex_Integration2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-4c606904573c0def778e.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-94d14e3d2d2be7b1103e.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-712b23a84a85b6df98a7.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-1bdbbe4cd973c4f0219c.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Integration2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Integration2-Debug-bce299cd66736a99b841.json",
+					"name" : "appEx_Integration2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Integration2_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Integration2_autogen-Debug-f52b24a3ff642fc761b7.json",
+					"name" : "appEx_Integration2_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Integration2_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Integration2_autogen_timestamp_deps-Debug-5fb353cd82eade9f2bb7.json",
+					"name" : "appEx_Integration2_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Integration2_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Integration2_qmlimportscan-Debug-37c4309ef6ee3f8573ab.json",
+					"name" : "appEx_Integration2_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Integration2_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Integration2_qmllint-Debug-36e517471b3aa848d507.json",
+					"name" : "appEx_Integration2_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Integration2_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Integration2_qmllint_json-Debug-3e479108b14b0d0a03c2.json",
+					"name" : "appEx_Integration2_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Integration2_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Integration2_qmllint_module-Debug-0bf8dd181ff41c497c27.json",
+					"name" : "appEx_Integration2_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Integration2_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Integration2_qmltyperegistration-Debug-50bf15a9e781c40cdb33.json",
+					"name" : "appEx_Integration2_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Integration2_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Integration2_tooling-Debug-706986f9b1eb9f5d788d.json",
+					"name" : "appEx_Integration2_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Qt/QML_Projects/Ex_Integration2/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug",
+		"source" : "C:/Qt/QML_Projects/Ex_Integration2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

@@ -1,0 +1,55 @@
+[
+    {
+        "classes": [
+            {
+                "className": "TcpClient",
+                "object": true,
+                "qualifiedClassName": "TcpClient",
+                "signals": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "data",
+                                "type": "QString"
+                            }
+                        ],
+                        "name": "dataReceived",
+                        "returnType": "void"
+                    }
+                ],
+                "slots": [
+                    {
+                        "access": "public",
+                        "name": "initialize",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "data",
+                                "type": "QString"
+                            }
+                        ],
+                        "name": "sendData",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "private",
+                        "name": "receivedData",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "TcpClient.h",
+        "outputRevision": 68
+    }
+]

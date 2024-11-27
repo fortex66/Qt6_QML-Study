@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-879e4c4de9e3c8564502.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Ex_CustomTimerType",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-509c78d34a9a4834b640.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-1bedbb2c0ead242750d8.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-2f728fe3d466e1ec1cb9.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-300940e672eba445c077.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_CustomTimerType::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_CustomTimerType-Debug-a51cdd481976519971d6.json",
+					"name" : "appEx_CustomTimerType",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_CustomTimerType_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_CustomTimerType_autogen-Debug-1a81dc0a2b628c191cc6.json",
+					"name" : "appEx_CustomTimerType_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_CustomTimerType_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_CustomTimerType_autogen_timestamp_deps-Debug-0ba971bb5fa8ac369c3f.json",
+					"name" : "appEx_CustomTimerType_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_CustomTimerType_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_CustomTimerType_qmlimportscan-Debug-901e9dd2bdd35d1f461f.json",
+					"name" : "appEx_CustomTimerType_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_CustomTimerType_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_CustomTimerType_qmllint-Debug-1a9132483a03abe50a70.json",
+					"name" : "appEx_CustomTimerType_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_CustomTimerType_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_CustomTimerType_qmllint_json-Debug-313232168fffef2d9a1d.json",
+					"name" : "appEx_CustomTimerType_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_CustomTimerType_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_CustomTimerType_qmllint_module-Debug-08e7844ec5faa6128fc1.json",
+					"name" : "appEx_CustomTimerType_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_CustomTimerType_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_CustomTimerType_qmltyperegistration-Debug-27732f8011e843dd0888.json",
+					"name" : "appEx_CustomTimerType_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_CustomTimerType_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_CustomTimerType_tooling-Debug-2e6f834755a7496e9f25.json",
+					"name" : "appEx_CustomTimerType_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Qt/QML_Projects/Ex_CustomTimerType/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug",
+		"source" : "C:/Qt/QML_Projects/Ex_CustomTimerType"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

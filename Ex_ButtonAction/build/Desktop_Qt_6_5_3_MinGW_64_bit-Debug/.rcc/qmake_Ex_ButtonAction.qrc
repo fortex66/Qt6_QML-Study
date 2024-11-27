@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Ex_ButtonAction">
+    <file alias="qmldir">C:/Qt/QML_Projects/Ex_ButtonAction/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Ex_ButtonAction/qmldir</file>
+  </qresource>
+</RCC>
+

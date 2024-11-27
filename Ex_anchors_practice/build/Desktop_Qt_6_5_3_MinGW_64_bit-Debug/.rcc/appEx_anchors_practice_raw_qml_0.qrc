@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qt/qml/Ex_anchors_practice/">
+    <file alias="Main.qml">C:/Qt/QML_Projects/Ex_anchors_practice/Main.qml</file>
+    <file alias="content/Butten.qml">C:/Qt/QML_Projects/Ex_anchors_practice/content/Butten.qml</file>
+  </qresource>
+</RCC>
+

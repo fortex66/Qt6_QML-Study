@@ -1,0 +1,55 @@
+[
+    {
+        "classes": [
+            {
+                "className": "Message",
+                "enums": [
+                    {
+                        "isClass": false,
+                        "isFlag": false,
+                        "name": "Status",
+                        "values": [
+                            "Ready",
+                            "Loading",
+                            "Error"
+                        ]
+                    }
+                ],
+                "object": true,
+                "properties": [
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 0,
+                        "name": "status",
+                        "notify": "statusChanged",
+                        "read": "status",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "int",
+                        "user": false,
+                        "write": "setStatus"
+                    }
+                ],
+                "qualifiedClassName": "Message",
+                "signals": [
+                    {
+                        "access": "public",
+                        "name": "statusChanged",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "message.h",
+        "outputRevision": 68
+    }
+]

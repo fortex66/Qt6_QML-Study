@@ -1,0 +1,5 @@
+module Ex_Transition
+typeinfo appEx_Transition.qmltypes
+prefer :/qt/qml/Ex_Transition/
+Main 1.0 Main.qml
+

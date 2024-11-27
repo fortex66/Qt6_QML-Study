@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/qt/qml/Ex_anchors_practice2/">
+    <file alias="Main.qml">C:/Qt/QML_Projects/Ex_anchors_practice2/Main.qml</file>
+    <file alias="images/bluebackground.png">C:/Qt/QML_Projects/Ex_anchors_practice2/images/bluebackground.png</file>
+    <file alias="images/bluebutton.png">C:/Qt/QML_Projects/Ex_anchors_practice2/images/bluebutton.png</file>
+    <file alias="images/login.png">C:/Qt/QML_Projects/Ex_anchors_practice2/images/login.png</file>
+  </qresource>
+</RCC>
+

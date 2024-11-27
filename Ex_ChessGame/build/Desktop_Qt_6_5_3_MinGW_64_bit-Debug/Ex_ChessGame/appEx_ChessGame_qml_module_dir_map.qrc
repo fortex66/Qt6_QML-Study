@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/Ex_ChessGame">C:/Qt/QML_Projects/Ex_ChessGame/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Ex_ChessGame</file>
+
+  </qresource>
+</RCC>

@@ -1,0 +1,14 @@
+-rootPath
+C:/Qt/QML_Projects/Ex_Dynamic_Menu
+-cmake-output
+-output-file
+C:/Qt/QML_Projects/Ex_Dynamic_Menu/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appEx_Dynamic_Menu.cmake
+-importPath
+C:/Qt/QML_Projects/Ex_Dynamic_Menu/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Ex_Dynamic_Menu
+-importPath
+C:/Qt/QML_Projects/Ex_Dynamic_Menu/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.5.3/mingw_64/./qml
+-qrcFiles
+C:/Qt/QML_Projects/Ex_Dynamic_Menu/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/.rcc/qmake_Ex_Dynamic_Menu.qrc
+C:/Qt/QML_Projects/Ex_Dynamic_Menu/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/.rcc/appEx_Dynamic_Menu_raw_qml_0.qrc

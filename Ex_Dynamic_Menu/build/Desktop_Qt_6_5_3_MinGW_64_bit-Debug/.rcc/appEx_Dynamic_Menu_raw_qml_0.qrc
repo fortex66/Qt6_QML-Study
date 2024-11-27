@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/qt/qml/Ex_Dynamic_Menu/">
+    <file alias="Main.qml">C:/Qt/QML_Projects/Ex_Dynamic_Menu/Main.qml</file>
+    <file alias="menu1.qml">C:/Qt/QML_Projects/Ex_Dynamic_Menu/menu1.qml</file>
+    <file alias="menu2.qml">C:/Qt/QML_Projects/Ex_Dynamic_Menu/menu2.qml</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,6 @@
+module Ex_anchors_practice
+typeinfo appEx_anchors_practice.qmltypes
+prefer :/qt/qml/Ex_anchors_practice/
+Main 1.0 Main.qml
+Butten 1.0 content/Butten.qml
+

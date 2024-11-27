@@ -1,0 +1,5 @@
+module Ex_ChatServer
+typeinfo appEx_ChatServer.qmltypes
+prefer :/qt/qml/Ex_ChatServer/
+Main 1.0 Main.qml
+

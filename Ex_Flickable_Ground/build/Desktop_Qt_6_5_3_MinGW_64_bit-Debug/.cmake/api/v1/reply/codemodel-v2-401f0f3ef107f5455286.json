@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-22df64f2f7debba5befc.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Ex_Flickable_Ground",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-a19f6ac8d0a2de6c49ae.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-73e0a5c956a9be0a929d.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-2168987de2832433c2ac.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-b18dc8278f68ff2e091d.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Flickable_Ground::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Flickable_Ground-Debug-2a6d61323b72225f5953.json",
+					"name" : "appEx_Flickable_Ground",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Flickable_Ground_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Flickable_Ground_autogen-Debug-06b36f5c9ab89fc320e9.json",
+					"name" : "appEx_Flickable_Ground_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Flickable_Ground_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Flickable_Ground_autogen_timestamp_deps-Debug-52958fb0f1ac3e8565d8.json",
+					"name" : "appEx_Flickable_Ground_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Flickable_Ground_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Flickable_Ground_qmlimportscan-Debug-ed473733f2d168a66e4d.json",
+					"name" : "appEx_Flickable_Ground_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Flickable_Ground_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Flickable_Ground_qmllint-Debug-ccb5b79dbcdaa9591cea.json",
+					"name" : "appEx_Flickable_Ground_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Flickable_Ground_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Flickable_Ground_qmllint_json-Debug-67f45086284b5baa01a0.json",
+					"name" : "appEx_Flickable_Ground_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Flickable_Ground_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Flickable_Ground_qmllint_module-Debug-42f59dd9ad5f7bde26f2.json",
+					"name" : "appEx_Flickable_Ground_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Flickable_Ground_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Flickable_Ground_qmltyperegistration-Debug-4f034f4fc69f8266c48a.json",
+					"name" : "appEx_Flickable_Ground_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Flickable_Ground_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Flickable_Ground_tooling-Debug-b5633241b280d38ad5b3.json",
+					"name" : "appEx_Flickable_Ground_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Qt/QML_Projects/Ex_Flickable_Ground/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug",
+		"source" : "C:/Qt/QML_Projects/Ex_Flickable_Ground"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

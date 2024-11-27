@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-5bd1e17287171f05fa9a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Ex_Transition",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-d340edaff662391a810f.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-e2eecc9d44b98937afcc.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-bc73dbe1828357cf799b.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-ef877c824db3752e84ba.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Transition::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Transition-Debug-9e0ab7b922c9166554a0.json",
+					"name" : "appEx_Transition",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Transition_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Transition_autogen-Debug-d1a5c2907df90312abc0.json",
+					"name" : "appEx_Transition_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Transition_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Transition_autogen_timestamp_deps-Debug-755433895b9d781e04ae.json",
+					"name" : "appEx_Transition_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Transition_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Transition_qmlimportscan-Debug-f5cf0688509ab21b4e2b.json",
+					"name" : "appEx_Transition_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Transition_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Transition_qmllint-Debug-20728ff6890a36ea8203.json",
+					"name" : "appEx_Transition_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Transition_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Transition_qmllint_json-Debug-8cad4bd29dbad930e18b.json",
+					"name" : "appEx_Transition_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Transition_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Transition_qmllint_module-Debug-66f143d7bce462a67d6f.json",
+					"name" : "appEx_Transition_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Transition_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Transition_qmltyperegistration-Debug-25ec1110b8f9dcb5fea8.json",
+					"name" : "appEx_Transition_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Transition_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Transition_tooling-Debug-64ee19d2000e0b2996b3.json",
+					"name" : "appEx_Transition_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Qt/QML_Projects/Ex_Transition/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug",
+		"source" : "C:/Qt/QML_Projects/Ex_Transition"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

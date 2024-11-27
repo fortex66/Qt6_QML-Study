@@ -1,0 +1,5 @@
+module Ex_00_Hello_World
+typeinfo appEx_00_Hello_World.qmltypes
+prefer :/qt/qml/Ex_00_Hello_World/
+Main 1.0 Main.qml
+

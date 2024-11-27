@@ -1,0 +1,5 @@
+module Ex_CustomTimerType
+typeinfo appEx_CustomTimerType.qmltypes
+prefer :/qt/qml/Ex_CustomTimerType/
+Main 1.0 Main.qml
+

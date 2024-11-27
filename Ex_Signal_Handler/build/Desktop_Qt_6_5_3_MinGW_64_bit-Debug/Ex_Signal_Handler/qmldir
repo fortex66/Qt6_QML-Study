@@ -1,0 +1,6 @@
+module Ex_Signal_Handler
+typeinfo appEx_Signal_Handler.qmltypes
+prefer :/qt/qml/Ex_Signal_Handler/
+Main 1.0 Main.qml
+SquareButton 1.0 content/SquareButton.qml
+

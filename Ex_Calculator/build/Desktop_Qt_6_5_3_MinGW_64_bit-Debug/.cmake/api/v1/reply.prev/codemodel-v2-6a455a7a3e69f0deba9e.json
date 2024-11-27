@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-3f30c200706434e13b15.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Ex_Calculator",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-d29a9900897bd68befd5.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-8e48bda0039fe85e2927.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-07be168b86522c7c194f.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-d16cc6fc6f0ccec63d51.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Calculator::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Calculator-Debug-0b6a7e8640ae5da13ed3.json",
+					"name" : "appEx_Calculator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Calculator_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Calculator_autogen-Debug-08e3a2b659fb19a6eec1.json",
+					"name" : "appEx_Calculator_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Calculator_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Calculator_autogen_timestamp_deps-Debug-6d276b2b71c7c007143a.json",
+					"name" : "appEx_Calculator_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Calculator_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Calculator_qmlimportscan-Debug-307d693324a0307e5a45.json",
+					"name" : "appEx_Calculator_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Calculator_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Calculator_qmllint-Debug-bbe258d9ce7962f9f298.json",
+					"name" : "appEx_Calculator_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Calculator_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Calculator_qmllint_json-Debug-ea51247af71147eb7216.json",
+					"name" : "appEx_Calculator_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Calculator_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Calculator_qmllint_module-Debug-13631aa627ee72942613.json",
+					"name" : "appEx_Calculator_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Calculator_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Calculator_qmltyperegistration-Debug-b69be6de96e7e8fea715.json",
+					"name" : "appEx_Calculator_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Calculator_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Calculator_tooling-Debug-e519cbd487660367ff5e.json",
+					"name" : "appEx_Calculator_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Qt/QML_Projects/Ex_Calculator/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug",
+		"source" : "C:/Qt/QML_Projects/Ex_Calculator"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

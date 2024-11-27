@@ -1,0 +1,5 @@
+module Ex_02_QML_Basic_Example
+typeinfo appEx_02_QML_Basic_Example.qmltypes
+prefer :/qt/qml/Ex_02_QML_Basic_Example/
+Main 1.0 Main.qml
+

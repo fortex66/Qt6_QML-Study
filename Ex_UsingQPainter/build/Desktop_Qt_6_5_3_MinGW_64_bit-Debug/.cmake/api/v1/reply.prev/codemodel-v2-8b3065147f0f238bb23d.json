@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-8749db138f3b77e449f7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Ex_UsingQPainter",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-f4ba645846d08e3a05d8.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-b162ded2708bfa4a6647.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-fd161204ac46762e7fe0.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-d1ebe4e4567430a7eacb.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_UsingQPainter::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_UsingQPainter-Debug-fa08dfb082e7ed1707a4.json",
+					"name" : "appEx_UsingQPainter",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_UsingQPainter_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_UsingQPainter_autogen-Debug-b72e6c180fae147adb9d.json",
+					"name" : "appEx_UsingQPainter_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_UsingQPainter_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_UsingQPainter_autogen_timestamp_deps-Debug-7621a17e2893cf4191c7.json",
+					"name" : "appEx_UsingQPainter_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_UsingQPainter_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_UsingQPainter_qmlimportscan-Debug-aa535f18ebee9c1e0ec1.json",
+					"name" : "appEx_UsingQPainter_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_UsingQPainter_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_UsingQPainter_qmllint-Debug-8c9b82af7de0064dca31.json",
+					"name" : "appEx_UsingQPainter_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_UsingQPainter_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_UsingQPainter_qmllint_json-Debug-17fb135fa77b5b63808d.json",
+					"name" : "appEx_UsingQPainter_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_UsingQPainter_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_UsingQPainter_qmllint_module-Debug-d5ff9a5d571ae75c4f92.json",
+					"name" : "appEx_UsingQPainter_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_UsingQPainter_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_UsingQPainter_qmltyperegistration-Debug-002fe5eb202b5061a29b.json",
+					"name" : "appEx_UsingQPainter_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_UsingQPainter_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_UsingQPainter_tooling-Debug-c92182d2f586898ae3c1.json",
+					"name" : "appEx_UsingQPainter_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Qt/QML_Projects/Ex_UsingQPainter/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug",
+		"source" : "C:/Qt/QML_Projects/Ex_UsingQPainter"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

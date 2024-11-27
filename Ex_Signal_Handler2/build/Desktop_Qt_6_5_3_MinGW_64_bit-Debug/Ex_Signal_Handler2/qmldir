@@ -1,0 +1,5 @@
+module Ex_Signal_Handler2
+typeinfo appEx_Signal_Handler2.qmltypes
+prefer :/qt/qml/Ex_Signal_Handler2/
+Main 1.0 Main.qml
+

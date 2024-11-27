@@ -1,0 +1,5 @@
+module Ex_UsingQPainter
+typeinfo appEx_UsingQPainter.qmltypes
+prefer :/qt/qml/Ex_UsingQPainter/
+Main 1.0 Main.qml
+

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Ex_01_ImageRotate">
+    <file alias="qmldir">C:/Qt/QML_Projects/Ex_01_ImageRotate/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Ex_01_ImageRotate/qmldir</file>
+  </qresource>
+</RCC>
+

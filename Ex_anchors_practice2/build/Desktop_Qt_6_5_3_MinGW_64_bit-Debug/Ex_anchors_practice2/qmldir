@@ -1,0 +1,5 @@
+module Ex_anchors_practice2
+typeinfo appEx_anchors_practice2.qmltypes
+prefer :/qt/qml/Ex_anchors_practice2/
+Main 1.0 Main.qml
+

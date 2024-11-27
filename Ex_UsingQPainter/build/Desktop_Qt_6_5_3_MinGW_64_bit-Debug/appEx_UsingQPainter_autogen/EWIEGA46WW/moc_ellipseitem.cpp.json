@@ -1,0 +1,17 @@
+{
+    "classes": [
+        {
+            "className": "EllipseItem",
+            "object": true,
+            "qualifiedClassName": "EllipseItem",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QQuickPaintedItem"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ellipseitem.h",
+    "outputRevision": 68
+}

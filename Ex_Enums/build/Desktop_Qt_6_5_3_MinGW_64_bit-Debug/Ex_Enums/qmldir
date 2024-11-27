@@ -1,0 +1,5 @@
+module Ex_Enums
+typeinfo appEx_Enums.qmltypes
+prefer :/qt/qml/Ex_Enums/
+Main 1.0 Main.qml
+

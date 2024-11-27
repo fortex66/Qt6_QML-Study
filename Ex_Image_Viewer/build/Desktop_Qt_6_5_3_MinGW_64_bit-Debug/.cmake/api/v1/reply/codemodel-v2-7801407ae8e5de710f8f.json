@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d65423536d7560253f38.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Ex_Image_Viewer",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-7349cc3d6db13c28c09e.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-43341809f1673ebea8eb.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-3f2d6e49c49411e400c7.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-d43fec05a8768fdb8e73.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Image_Viewer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Image_Viewer-Debug-04eb5215bf2598df08ce.json",
+					"name" : "appEx_Image_Viewer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Image_Viewer_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Image_Viewer_autogen-Debug-226b9a20fa4ac2b45277.json",
+					"name" : "appEx_Image_Viewer_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Image_Viewer_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Image_Viewer_autogen_timestamp_deps-Debug-491417f1980accd6b2e9.json",
+					"name" : "appEx_Image_Viewer_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Image_Viewer_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Image_Viewer_qmlimportscan-Debug-61ab55c4fc9e9434058d.json",
+					"name" : "appEx_Image_Viewer_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Image_Viewer_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Image_Viewer_qmllint-Debug-21391b9f85c125889c40.json",
+					"name" : "appEx_Image_Viewer_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Image_Viewer_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Image_Viewer_qmllint_json-Debug-6d8a0f8b8cba8159f5d5.json",
+					"name" : "appEx_Image_Viewer_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Image_Viewer_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Image_Viewer_qmllint_module-Debug-3542b8b4d099529cf366.json",
+					"name" : "appEx_Image_Viewer_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Image_Viewer_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Image_Viewer_qmltyperegistration-Debug-1bceb197ebad323940ce.json",
+					"name" : "appEx_Image_Viewer_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Image_Viewer_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Image_Viewer_tooling-Debug-9297e07d8b25045ec029.json",
+					"name" : "appEx_Image_Viewer_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Qt/QML_Projects/Ex_Image_Viewer/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug",
+		"source" : "C:/Qt/QML_Projects/Ex_Image_Viewer"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

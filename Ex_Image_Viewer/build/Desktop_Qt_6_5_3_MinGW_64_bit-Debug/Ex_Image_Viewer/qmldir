@@ -1,0 +1,8 @@
+module Ex_Image_Viewer
+typeinfo appEx_Image_Viewer.qmltypes
+prefer :/qt/qml/Ex_Image_Viewer/
+Main 1.0 Main.qml
+Button 1.0 modules/Button.qml
+RotationButton 1.0 modules/RotationButton.qml
+Thumbnail 1.0 modules/Thumbnail.qml
+

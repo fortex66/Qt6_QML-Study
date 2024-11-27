@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-651b40783f4e07163c09.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Ex_00_Hello_World",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-4b2d73e146522b65977b.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-8312432767ce244f3882.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-9a159a4191db44d78236.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-99dc27512906f473fa47.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_00_Hello_World::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_00_Hello_World-Debug-25bbad49b116d87f1ea1.json",
+					"name" : "appEx_00_Hello_World",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_00_Hello_World_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_00_Hello_World_autogen-Debug-2bdb9158a2a694b81bb9.json",
+					"name" : "appEx_00_Hello_World_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_00_Hello_World_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_00_Hello_World_autogen_timestamp_deps-Debug-8d756376f58e03fd1e5c.json",
+					"name" : "appEx_00_Hello_World_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_00_Hello_World_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_00_Hello_World_qmlimportscan-Debug-a77b4bfbbe4f0984e309.json",
+					"name" : "appEx_00_Hello_World_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_00_Hello_World_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_00_Hello_World_qmllint-Debug-87e094636bda82e2eac2.json",
+					"name" : "appEx_00_Hello_World_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_00_Hello_World_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_00_Hello_World_qmllint_json-Debug-c341deb8670aa83cd796.json",
+					"name" : "appEx_00_Hello_World_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_00_Hello_World_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_00_Hello_World_qmllint_module-Debug-6bd8065bac8e61bbf12c.json",
+					"name" : "appEx_00_Hello_World_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_00_Hello_World_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_00_Hello_World_qmltyperegistration-Debug-e0f1e02cae702f1709c0.json",
+					"name" : "appEx_00_Hello_World_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_00_Hello_World_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_00_Hello_World_tooling-Debug-e4a8aa75461e6c1b4073.json",
+					"name" : "appEx_00_Hello_World_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Qt/projects/Ex_00_Hello_World/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug",
+		"source" : "C:/Qt/projects/Ex_00_Hello_World"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

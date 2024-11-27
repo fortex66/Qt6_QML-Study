@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/Ex_Integration">C:/Qt/QML_Projects/Ex_Integration/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Ex_Integration</file>
+
+  </qresource>
+</RCC>

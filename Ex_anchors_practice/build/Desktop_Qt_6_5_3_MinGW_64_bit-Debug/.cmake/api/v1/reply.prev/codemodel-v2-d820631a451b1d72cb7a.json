@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-86d942ac108b63378df6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Ex_anchors_practice",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-1c977dd497b57a02bba0.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-a804696b02e6ae3b6163.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-d53964c384597a59da99.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-450efbfccda6f4ad047f.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_anchors_practice::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_anchors_practice-Debug-505c843e99812d03d393.json",
+					"name" : "appEx_anchors_practice",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_anchors_practice_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_anchors_practice_autogen-Debug-d7c7e4805598317b17bc.json",
+					"name" : "appEx_anchors_practice_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_anchors_practice_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_anchors_practice_autogen_timestamp_deps-Debug-3174fe31d29ebe3a8fe2.json",
+					"name" : "appEx_anchors_practice_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_anchors_practice_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_anchors_practice_qmlimportscan-Debug-836c44f8ecd040793bba.json",
+					"name" : "appEx_anchors_practice_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_anchors_practice_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_anchors_practice_qmllint-Debug-4a189e60fb7009323c5c.json",
+					"name" : "appEx_anchors_practice_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_anchors_practice_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_anchors_practice_qmllint_json-Debug-5dc409e22246ddc73ba6.json",
+					"name" : "appEx_anchors_practice_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_anchors_practice_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_anchors_practice_qmllint_module-Debug-c37ac5664fb7b0bb538e.json",
+					"name" : "appEx_anchors_practice_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_anchors_practice_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_anchors_practice_qmltyperegistration-Debug-3f861de21a9b9a58655e.json",
+					"name" : "appEx_anchors_practice_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_anchors_practice_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_anchors_practice_tooling-Debug-4c0ec87c1a69908ae97a.json",
+					"name" : "appEx_anchors_practice_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Qt/QML_Projects/Ex_anchors_practice/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug",
+		"source" : "C:/Qt/QML_Projects/Ex_anchors_practice"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

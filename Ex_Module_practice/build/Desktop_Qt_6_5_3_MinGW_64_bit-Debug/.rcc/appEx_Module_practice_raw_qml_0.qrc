@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/qt/qml/Ex_Module_practice/">
+    <file alias="Main.qml">C:/Qt/QML_Projects/Ex_Module_practice/Main.qml</file>
+    <file alias="content/NewCheckBox.qml">C:/Qt/QML_Projects/Ex_Module_practice/content/NewCheckBox.qml</file>
+    <file alias="images/checked.svg">C:/Qt/QML_Projects/Ex_Module_practice/images/checked.svg</file>
+    <file alias="images/unchecked.svg">C:/Qt/QML_Projects/Ex_Module_practice/images/unchecked.svg</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,59 @@
+{
+    "classes": [
+        {
+            "className": "Message",
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "author",
+                    "notify": "authorChanged",
+                    "read": "author",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QString",
+                    "user": false,
+                    "write": "setAuthor"
+                }
+            ],
+            "qualifiedClassName": "Message",
+            "signals": [
+                {
+                    "access": "public",
+                    "name": "authorChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "subject",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "newMessagePosted",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "public",
+                    "name": "timerTimeout",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "message.h",
+    "outputRevision": 68
+}

@@ -1,0 +1,5 @@
+module Ex_ButtonAction
+typeinfo appEx_ButtonAction.qmltypes
+prefer :/qt/qml/Ex_ButtonAction/
+Main 1.0 Main.qml
+

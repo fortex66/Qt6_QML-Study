@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qt/qml/Ex_Calculator/">
+    <file alias="Main.qml">C:/Qt/QML_Projects/Ex_Calculator/Main.qml</file>
+    <file alias="js/jslib.js">C:/Qt/QML_Projects/Ex_Calculator/js/jslib.js</file>
+  </qresource>
+</RCC>
+

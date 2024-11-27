@@ -1,0 +1,5 @@
+module Ex_CustomTypeBasic
+typeinfo appEx_CustomTypeBasic.qmltypes
+prefer :/qt/qml/Ex_CustomTypeBasic/
+Main 1.0 Main.qml
+

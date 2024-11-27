@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Ex_ChatServer/">
+    <file alias="Main.qml">C:/Qt/QML_Projects/Ex_ChatServer/Main.qml</file>
+  </qresource>
+</RCC>
+

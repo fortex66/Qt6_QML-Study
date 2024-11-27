@@ -1,0 +1,6 @@
+module Ex_Module_practice
+typeinfo appEx_Module_practice.qmltypes
+prefer :/qt/qml/Ex_Module_practice/
+Main 1.0 Main.qml
+NewCheckBox 1.0 content/NewCheckBox.qml
+

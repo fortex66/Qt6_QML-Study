@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/qt/qml/Ex_Calendar/">
+    <file alias="Main.qml">C:/Qt/QML_Projects/Ex_Calendar/Main.qml</file>
+    <file alias="images/left.png">C:/Qt/QML_Projects/Ex_Calendar/images/left.png</file>
+    <file alias="images/right.png">C:/Qt/QML_Projects/Ex_Calendar/images/right.png</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qt/qml/Ex_CustomTimerType/">
+    <file alias="Main.qml">C:/Qt/QML_Projects/Ex_CustomTimerType/Main.qml</file>
+    <file alias="images/loading.png">C:/Qt/QML_Projects/Ex_CustomTimerType/images/loading.png</file>
+  </qresource>
+</RCC>
+

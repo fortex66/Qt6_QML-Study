@@ -1,0 +1,79 @@
+[
+    {
+        "classes": [
+            {
+                "className": "Timer",
+                "object": true,
+                "properties": [
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 0,
+                        "name": "interval",
+                        "notify": "intervalChanged",
+                        "read": "interval",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "int",
+                        "user": false,
+                        "write": "setInterval"
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 1,
+                        "name": "active",
+                        "notify": "activeChanged",
+                        "read": "isActive",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "bool",
+                        "user": false
+                    }
+                ],
+                "qualifiedClassName": "Timer",
+                "signals": [
+                    {
+                        "access": "public",
+                        "name": "timeout",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "name": "intervalChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "name": "activeChanged",
+                        "returnType": "void"
+                    }
+                ],
+                "slots": [
+                    {
+                        "access": "public",
+                        "name": "start",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "name": "stop",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "timer.h",
+        "outputRevision": 68
+    }
+]

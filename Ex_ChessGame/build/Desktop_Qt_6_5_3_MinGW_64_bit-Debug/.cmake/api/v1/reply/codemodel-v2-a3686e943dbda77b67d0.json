@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-7d553ab2daf85cd30637.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Ex_ChessGame",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-92ae556e63bbcbd0c3f2.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-7d6ad2f4843e721ad43b.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-df7edcde2e5fe32ba23f.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-208c137df258402bc1a2.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_ChessGame::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_ChessGame-Debug-d1135df50019d54eb55a.json",
+					"name" : "appEx_ChessGame",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_ChessGame_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_ChessGame_autogen-Debug-ee2b9de8e9f5b98ac2eb.json",
+					"name" : "appEx_ChessGame_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_ChessGame_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_ChessGame_autogen_timestamp_deps-Debug-d93f18f5380240754ccd.json",
+					"name" : "appEx_ChessGame_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_ChessGame_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_ChessGame_qmlimportscan-Debug-f7417c6a0284cce81d55.json",
+					"name" : "appEx_ChessGame_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_ChessGame_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_ChessGame_qmllint-Debug-815b46889b2f40a41db2.json",
+					"name" : "appEx_ChessGame_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_ChessGame_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_ChessGame_qmllint_json-Debug-ac55c7c1453f4127bd31.json",
+					"name" : "appEx_ChessGame_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_ChessGame_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_ChessGame_qmllint_module-Debug-b5ecd9d81688b9c148c9.json",
+					"name" : "appEx_ChessGame_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_ChessGame_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_ChessGame_qmltyperegistration-Debug-ae802b89c22b94648309.json",
+					"name" : "appEx_ChessGame_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_ChessGame_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_ChessGame_tooling-Debug-b2e04c89a6b0570ff953.json",
+					"name" : "appEx_ChessGame_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Qt/QML_Projects/Ex_ChessGame/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug",
+		"source" : "C:/Qt/QML_Projects/Ex_ChessGame"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

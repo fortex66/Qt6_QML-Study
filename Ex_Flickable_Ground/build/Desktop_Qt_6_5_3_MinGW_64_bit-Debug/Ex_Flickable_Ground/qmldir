@@ -1,0 +1,5 @@
+module Ex_Flickable_Ground
+typeinfo appEx_Flickable_Ground.qmltypes
+prefer :/qt/qml/Ex_Flickable_Ground/
+Main 1.0 Main.qml
+

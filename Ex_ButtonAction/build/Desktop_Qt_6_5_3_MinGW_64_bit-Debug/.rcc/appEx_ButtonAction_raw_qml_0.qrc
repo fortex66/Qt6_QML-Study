@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Ex_ButtonAction/">
+    <file alias="Main.qml">C:/Qt/QML_Projects/Ex_ButtonAction/Main.qml</file>
+  </qresource>
+</RCC>
+

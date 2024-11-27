@@ -1,0 +1,5 @@
+module Ex_Calendar
+typeinfo appEx_Calendar.qmltypes
+prefer :/qt/qml/Ex_Calendar/
+Main 1.0 Main.qml
+

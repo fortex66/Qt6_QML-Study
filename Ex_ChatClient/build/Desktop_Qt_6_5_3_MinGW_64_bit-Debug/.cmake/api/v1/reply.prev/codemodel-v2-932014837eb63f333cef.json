@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-42273b0cb6057d40fc48.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Ex_ChatClient",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-927d6a29eccbd364bbb5.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-bb5c24cbc1f147be27c9.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-0ee7202f67bf47867355.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-23671aa1144f91ff46ef.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_ChatClient::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_ChatClient-Debug-4d31e2b65a3a1917d7e0.json",
+					"name" : "appEx_ChatClient",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_ChatClient_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_ChatClient_autogen-Debug-c984359521ae500ddb83.json",
+					"name" : "appEx_ChatClient_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_ChatClient_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_ChatClient_autogen_timestamp_deps-Debug-9e0a3e098a22321b40e0.json",
+					"name" : "appEx_ChatClient_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_ChatClient_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_ChatClient_qmlimportscan-Debug-88458daa0f09d07c2c3b.json",
+					"name" : "appEx_ChatClient_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_ChatClient_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_ChatClient_qmllint-Debug-2cc08cea656d46fd5d52.json",
+					"name" : "appEx_ChatClient_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_ChatClient_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_ChatClient_qmllint_json-Debug-e043d6b0b8c87bc20282.json",
+					"name" : "appEx_ChatClient_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_ChatClient_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_ChatClient_qmllint_module-Debug-097777d88465f61608c4.json",
+					"name" : "appEx_ChatClient_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_ChatClient_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_ChatClient_qmltyperegistration-Debug-3a70938e1de7bfbfad61.json",
+					"name" : "appEx_ChatClient_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_ChatClient_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_ChatClient_tooling-Debug-a37671cb46c51c1e3e58.json",
+					"name" : "appEx_ChatClient_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Qt/QML_Projects/Ex_ChatClient/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug",
+		"source" : "C:/Qt/QML_Projects/Ex_ChatClient"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

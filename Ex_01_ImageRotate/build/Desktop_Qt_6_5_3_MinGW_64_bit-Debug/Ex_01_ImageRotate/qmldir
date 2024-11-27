@@ -1,0 +1,5 @@
+module Ex_01_ImageRotate
+typeinfo appEx_01_ImageRotate.qmltypes
+prefer :/qt/qml/Ex_01_ImageRotate/
+Main 1.0 Main.qml
+

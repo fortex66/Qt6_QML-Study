@@ -1,0 +1,5 @@
+module Ex_ChessGame
+typeinfo appEx_ChessGame.qmltypes
+prefer :/qt/qml/Ex_ChessGame/
+Main 1.0 Main.qml
+

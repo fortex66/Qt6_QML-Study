@@ -1,0 +1,14 @@
+-rootPath
+C:/Qt/projects/Ex_00_Hello_World
+-cmake-output
+-output-file
+C:/Qt/projects/Ex_00_Hello_World/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appEx_00_Hello_World.cmake
+-importPath
+C:/Qt/projects/Ex_00_Hello_World/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Ex_00_Hello_World
+-importPath
+C:/Qt/projects/Ex_00_Hello_World/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.5.3/mingw_64/./qml
+-qrcFiles
+C:/Qt/projects/Ex_00_Hello_World/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/.rcc/qmake_Ex_00_Hello_World.qrc
+C:/Qt/projects/Ex_00_Hello_World/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/.rcc/appEx_00_Hello_World_raw_qml_0.qrc

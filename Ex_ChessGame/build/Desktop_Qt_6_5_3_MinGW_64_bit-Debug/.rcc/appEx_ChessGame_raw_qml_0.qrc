@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qt/qml/Ex_ChessGame/">
+    <file alias="Main.qml">C:/Qt/QML_Projects/Ex_ChessGame/Main.qml</file>
+    <file alias="images/knight.png">C:/Qt/QML_Projects/Ex_ChessGame/images/knight.png</file>
+  </qresource>
+</RCC>
+

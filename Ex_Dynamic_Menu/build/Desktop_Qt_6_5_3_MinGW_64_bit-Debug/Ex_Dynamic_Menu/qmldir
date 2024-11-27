@@ -1,0 +1,5 @@
+module Ex_Dynamic_Menu
+typeinfo appEx_Dynamic_Menu.qmltypes
+prefer :/qt/qml/Ex_Dynamic_Menu/
+Main 1.0 Main.qml
+

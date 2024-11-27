@@ -1,0 +1,5 @@
+module Ex_Calculator
+typeinfo appEx_Calculator.qmltypes
+prefer :/qt/qml/Ex_Calculator/
+Main 1.0 Main.qml
+

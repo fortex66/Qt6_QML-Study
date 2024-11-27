@@ -1,0 +1,5 @@
+module Ex_Integration2
+typeinfo appEx_Integration2.qmltypes
+prefer :/qt/qml/Ex_Integration2/
+Main 1.0 Main.qml
+

@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-e175c32d7f8492c70dd3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Ex_Signal_Handler2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-0d4a27cd8d63d94d6517.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-86f0779b3c641f8b2a8f.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-f37270790b7cb6383048.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-96f4b318eafaf1d32625.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Signal_Handler2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Signal_Handler2-Debug-f324f6ec17de9fb90e57.json",
+					"name" : "appEx_Signal_Handler2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Signal_Handler2_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Signal_Handler2_autogen-Debug-d23b338489957c2aa111.json",
+					"name" : "appEx_Signal_Handler2_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Signal_Handler2_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Signal_Handler2_autogen_timestamp_deps-Debug-e3e253ee203c25c32c40.json",
+					"name" : "appEx_Signal_Handler2_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Signal_Handler2_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Signal_Handler2_qmlimportscan-Debug-0292e9879dd070a35eba.json",
+					"name" : "appEx_Signal_Handler2_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Signal_Handler2_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Signal_Handler2_qmllint-Debug-39823bfcfa76436f1907.json",
+					"name" : "appEx_Signal_Handler2_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Signal_Handler2_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Signal_Handler2_qmllint_json-Debug-1eda3e662b9b64d7a6dd.json",
+					"name" : "appEx_Signal_Handler2_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Signal_Handler2_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Signal_Handler2_qmllint_module-Debug-31a0a94ab50c2cc5539c.json",
+					"name" : "appEx_Signal_Handler2_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Signal_Handler2_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Signal_Handler2_qmltyperegistration-Debug-f8485c262a1894c42659.json",
+					"name" : "appEx_Signal_Handler2_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Signal_Handler2_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Signal_Handler2_tooling-Debug-b60798d028df06babf33.json",
+					"name" : "appEx_Signal_Handler2_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Qt/QML_Projects/Ex_Signal_Handler2/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug",
+		"source" : "C:/Qt/QML_Projects/Ex_Signal_Handler2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

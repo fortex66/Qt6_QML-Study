@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qt/qml/Ex_Signal_Handler/">
+    <file alias="Main.qml">C:/Qt/QML_Projects/Ex_Signal_Handler/Main.qml</file>
+    <file alias="content/SquareButton.qml">C:/Qt/QML_Projects/Ex_Signal_Handler/content/SquareButton.qml</file>
+  </qresource>
+</RCC>
+

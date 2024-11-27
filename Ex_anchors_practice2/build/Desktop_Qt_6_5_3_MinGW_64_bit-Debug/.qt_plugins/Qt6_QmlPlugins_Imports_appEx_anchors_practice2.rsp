@@ -1,0 +1,14 @@
+-rootPath
+C:/Qt/QML_Projects/Ex_anchors_practice2
+-cmake-output
+-output-file
+C:/Qt/QML_Projects/Ex_anchors_practice2/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appEx_anchors_practice2.cmake
+-importPath
+C:/Qt/QML_Projects/Ex_anchors_practice2/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Ex_anchors_practice2
+-importPath
+C:/Qt/QML_Projects/Ex_anchors_practice2/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.5.3/mingw_64/./qml
+-qrcFiles
+C:/Qt/QML_Projects/Ex_anchors_practice2/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/.rcc/qmake_Ex_anchors_practice2.qrc
+C:/Qt/QML_Projects/Ex_anchors_practice2/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/.rcc/appEx_anchors_practice2_raw_qml_0.qrc

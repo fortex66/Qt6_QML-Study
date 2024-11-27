@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/qt/qml/Ex_Flickable_Ground/">
+    <file alias="Main.qml">C:/Qt/QML_Projects/Ex_Flickable_Ground/Main.qml</file>
+    <file alias="images/ground.jpg">C:/Qt/QML_Projects/Ex_Flickable_Ground/images/ground.jpg</file>
+    <file alias="images/player.png">C:/Qt/QML_Projects/Ex_Flickable_Ground/images/player.png</file>
+  </qresource>
+</RCC>
+

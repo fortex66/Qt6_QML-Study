@@ -1,0 +1,60 @@
+[
+    {
+        "classes": [
+            {
+                "className": "TcpServer",
+                "object": true,
+                "qualifiedClassName": "TcpServer",
+                "signals": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "data",
+                                "type": "QString"
+                            }
+                        ],
+                        "name": "dataReceived",
+                        "returnType": "void"
+                    }
+                ],
+                "slots": [
+                    {
+                        "access": "public",
+                        "name": "initialize",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "data",
+                                "type": "QString"
+                            }
+                        ],
+                        "name": "sendData",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "private",
+                        "name": "receievedData",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "private",
+                        "name": "slotConnection",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "TcpServer.h",
+        "outputRevision": 68
+    }
+]

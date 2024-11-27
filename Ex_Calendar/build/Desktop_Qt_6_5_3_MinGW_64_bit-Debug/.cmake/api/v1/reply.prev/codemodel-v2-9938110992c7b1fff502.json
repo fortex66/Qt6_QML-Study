@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-51ad90d91ef534db8c00.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Ex_Calendar",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-6118aba838dd4193412c.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-8dc5f3773480a0835fbf.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-81a0233698b3c1515be2.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-44a6914915e2f1b90104.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Calendar::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Calendar-Debug-bf7a1bd6319a8e00ef5d.json",
+					"name" : "appEx_Calendar",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Calendar_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Calendar_autogen-Debug-c0b82ce4878800bd01a5.json",
+					"name" : "appEx_Calendar_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Calendar_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Calendar_autogen_timestamp_deps-Debug-10d8b6a1bf25b4ecfcec.json",
+					"name" : "appEx_Calendar_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Calendar_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Calendar_qmlimportscan-Debug-22e5457b594904ba3643.json",
+					"name" : "appEx_Calendar_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Calendar_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Calendar_qmllint-Debug-0cf6e92716c829b36c16.json",
+					"name" : "appEx_Calendar_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Calendar_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Calendar_qmllint_json-Debug-5d7f6a1d2df5bb3f6819.json",
+					"name" : "appEx_Calendar_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Calendar_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Calendar_qmllint_module-Debug-e97c0135ddd092eb5da9.json",
+					"name" : "appEx_Calendar_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Calendar_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Calendar_qmltyperegistration-Debug-9ff14d8b4cdeb1e7a10b.json",
+					"name" : "appEx_Calendar_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEx_Calendar_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEx_Calendar_tooling-Debug-f7955f3e3667caa60db6.json",
+					"name" : "appEx_Calendar_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Qt/QML_Projects/Ex_Calendar/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug",
+		"source" : "C:/Qt/QML_Projects/Ex_Calendar"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
